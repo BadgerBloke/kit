@@ -7,13 +7,21 @@
   "publishConfig": {
     "access": "public"
   },
+  "author": {
+    "name": "mksingh",
+    "url": "https://twitter.com/mksingh_dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mksingh-dev/kit.git",
+    "directory": "packages/cli"
+  },
   "files": [
-    "dist/*"
+    "dist"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["project setup tool", "npm tool", "pnpm tool", "boilerplate"],
-  "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
