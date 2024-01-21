@@ -1,0 +1,12 @@
+{
+  "name": "mksingh-kit",
+  "version": "0.0.1",
+  "description": "This is the tool-kit for initializing and setup various projects and configurations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["project setup tool", "npm tool", "pnpm tool", "boilerplate"],
+  "author": "",
+  "license": "ISC"
+}
